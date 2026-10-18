@@ -1,7 +1,7 @@
 # Henna-Associated Adverse Drug Reactions — FAERS Pharmacovigilance Analysis
 
 **Manuscript**: Henna-Associated Adverse Drug Reactions: A Pharmacovigilance Analysis of the FDA FAERS Cosmetic Public Dashboard  
-**Journal**: *Cutaneous and Ocular Toxicology* (Manuscript ID: LCOT-2026-0235.R1)  
+**
 **Data source**: FDA FAERS Cosmetic Public Dashboard · 2003–2025 · n = 110 cases
 
 ---
@@ -125,7 +125,7 @@ These differences do not affect the qualitative conclusions of the manuscript.
 
 If you use this code in your work, please cite:
 
-> [Authors]. Henna-Associated Adverse Drug Reactions: A Pharmacovigilance Analysis of the FDA FAERS Cosmetic Public Dashboard. *Cutaneous and Ocular Toxicology*, 2026. DOI: [forthcoming]
+> [Authors]. Henna-Associated Adverse Drug Reactions: A Pharmacovigilance Analysis of the FDA FAERS Cosmetic Public Dashboard. * DOI: [forthcoming]
 
 ---
 
