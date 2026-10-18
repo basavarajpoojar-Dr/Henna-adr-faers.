@@ -57,4 +57,4 @@ Products were classified into five categories by two investigators independently
 
 If you use this code or data derivation in your work, please cite:
 
-> [Author names redacted for peer review]. Henna-associated adverse drug reactions: a pharmacovigilance analysis of the FDA FAERS Cosmetic Public Dashboard. *Cutaneous and Ocular Toxicology*, 2026. Manuscript ID: LCOT-2026-0235.R1.
+> [Author names redacted for peer review]. Henna-associated adverse drug reactions: a pharmacovigilance analysis of the FDA FAERS Cosmetic Public Dashboard. *
